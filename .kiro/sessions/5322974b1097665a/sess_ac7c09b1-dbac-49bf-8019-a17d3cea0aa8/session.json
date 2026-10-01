@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "dataModelVersion": 1,
+  "id": "sess_ac7c09b1-dbac-49bf-8019-a17d3cea0aa8",
+  "title": "Build Expense & Budget Visualizer",
+  "agentMode": "vibe",
+  "workspacePaths": [
+    "d:\\kuliah\\kiro proyek\\CodingCamp-31August26-Izza_Ahmaddina"
+  ],
+  "rootPaths": [
+    "d:\\kuliah\\kiro proyek\\CodingCamp-31August26-Izza_Ahmaddina"
+  ],
+  "createdAt": "2026-10-01T06:35:42.476Z",
+  "lastModifiedAt": "2026-10-01T07:06:27.625Z",
+  "modelId": "auto",
+  "autopilot": false,
+  "semanticReviewEnabled": true,
+  "disableAutoCompaction": false,
+  "ftaEnabled": false,
+  "workflowsEnabled": false,
+  "specPlanEnabled": false,
+  "specWorkflow": "quick",
+  "specSkipClarificationEnabled": true,
+  "description": "All three files created successfully. Verifying the final file structure now.",
+  "status": "idle",
+  "_meta": {
+    "kiro": {
+      "policyPreset": [
+        "edit-workspace"
+      ],
+      "shellType": "powershell"
+    }
+  }
+}

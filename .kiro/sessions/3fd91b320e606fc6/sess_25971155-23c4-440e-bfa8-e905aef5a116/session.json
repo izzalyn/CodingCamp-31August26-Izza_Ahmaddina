@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "dataModelVersion": 1,
+  "id": "sess_25971155-23c4-440e-bfa8-e905aef5a116",
+  "title": "New Session",
+  "agentMode": "vibe",
+  "workspacePaths": [
+    "d:\\kuliah\\kiro proyek\\proyek-dasar-pemrograman"
+  ],
+  "rootPaths": [
+    "d:\\kuliah\\kiro proyek\\proyek-dasar-pemrograman"
+  ],
+  "createdAt": "2026-09-28T14:03:30.895Z",
+  "lastModifiedAt": "2026-09-28T14:04:18.143Z",
+  "autopilot": false,
+  "semanticReviewEnabled": true,
+  "disableAutoCompaction": false,
+  "ftaEnabled": false,
+  "workflowsEnabled": false,
+  "specPlanEnabled": false,
+  "specWorkflow": "quick",
+  "specSkipClarificationEnabled": true,
+  "_meta": {
+    "kiro": {
+      "policyPreset": [
+        "edit-workspace"
+      ],
+      "shellType": "powershell"
+    }
+  }
+}
